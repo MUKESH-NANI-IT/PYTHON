@@ -24,8 +24,8 @@ print(familyMembers)
 
 ################ EXERSICE :LVL2 ######################
 # 1
-unpakSibilings=familyMembers[:6]
-print(unpakSibilings)
+unpackSibilings=familyMembers[:6]
+print(unpackSibilings)
 
 # 2
 fruits=("Apple","banana","Orange","grapes")
